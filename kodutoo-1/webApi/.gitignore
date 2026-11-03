@@ -1,0 +1,12 @@
+# .NET generated files
+bin/
+obj/
+
+# macOS metadata
+.DS_Store
+
+# Local VS Code settings
+.vscode/
+
+# Local development secrets
+secrets.json
